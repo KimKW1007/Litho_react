@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Litho_react/static/css/main.e6c13ad2.css",
+    "main.js": "/Litho_react/static/js/main.1ed2e12f.js",
+    "static/js/787.f997e2ee.chunk.js": "/Litho_react/static/js/787.f997e2ee.chunk.js",
+    "index.html": "/Litho_react/index.html",
+    "main.e6c13ad2.css.map": "/Litho_react/static/css/main.e6c13ad2.css.map",
+    "main.1ed2e12f.js.map": "/Litho_react/static/js/main.1ed2e12f.js.map",
+    "787.f997e2ee.chunk.js.map": "/Litho_react/static/js/787.f997e2ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1ed2e12f.js"
+  ]
+}
